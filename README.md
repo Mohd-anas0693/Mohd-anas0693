@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohd-anas0693
-- 👀 I’m interested in  Computer Programing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on C++ Projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Frontend  and Backend Web Development
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me .. Email: mohdanaspctebca20@gmail.com
 
 <!---
