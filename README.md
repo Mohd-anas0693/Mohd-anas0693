@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohd-anas0693
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend  and Backend Web Development
+- 🌱 I’m currently working on Internet computer Blockchain D-Apps developemnt.
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me .. Email: mohdanaspctebca20@gmail.com
 
