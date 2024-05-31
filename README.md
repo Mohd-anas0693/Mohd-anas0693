@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anas</h1>
 <h3 align="center">I am a dedicated and skilled backend developer with a strong background in web and blockchain technologies. With hands-on experience in Node.js, Express, React.js,Rust and Motoko</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohd-anas0693" alt="mohd-anas0693" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p>
+<img src="https://github-profile-trophy.vercel.app/?username=mohd-anas0693" alt="mohd-anas0693" /></a> 
 
 - 🔭 I’m currently working on unique social media project. [Post-Battle](https://github.com/Mohd-anas0693/Post--Battle)
 
