@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anas</h1>
 <h3 align="center">I am a dedicated and skilled backend developer with a strong background in web and blockchain technologies. With hands-on experience in Node.js, Express, React.js,Rust and Motoko,</h3>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+
 - 🔭 I’m currently working on unique social media project. [Post-Battle](https://github.com/Mohd-anas0693/Post--Battle)
 
 - 🌱 I’m currently learning Solana from **https://www.soldev.app/course**
