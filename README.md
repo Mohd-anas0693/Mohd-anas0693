@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohammad Anas</h1>
 <h3 align="center">I am a dedicated and skilled backend developer with a strong background in web and blockchain technologies. With hands-on experience in Node.js, Express, React.js,Rust and Motoko,</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
