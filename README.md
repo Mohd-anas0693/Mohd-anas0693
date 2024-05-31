@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anas</h1>
 <h3 align="center">I am a dedicated and skilled backend developer with a strong background in web and blockchain technologies. With hands-on experience in Node.js, Express, React.js,Rust and Motoko,</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on unique social media project. [Post-Battle](https://github.com/Mohd-anas0693/Post--Battle)
 
 - 🌱 I’m currently learning Solana from **https://www.soldev.app/course**
