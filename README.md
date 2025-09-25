@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohd-anas0693/](https://github.com/Mohd-anas0693/)
 
-- 💬 Ask me about **Internet Computer (ICP) , Motoko and Rust(ic-cdk)**
+- 💬 Ask me about **Ract.js , Node.js , Express.js, Typescript , Motoko and mongodb**
 
 - 📫 How to reach me **mohdanas0.693@gmail.com**
 
