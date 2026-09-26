@@ -70,19 +70,11 @@
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohd-anas0693&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=70A5FD&icon_color=bf91f3" alt="GitHub stats" />
-<img height="180" src="https://github-readme-streak-stats.demolab.com/?user=Mohd-anas0693&hide_border=true&theme=tokyonight&ring=70A5FD&fire=bf91f3&currStreakLabel=70A5FD" alt="GitHub streak" />
+<img height="180" src="https://streak-stats.demolab.com/?user=Mohd-anas0693&hide_border=true&theme=tokyonight&ring=70A5FD&fire=bf91f3&currStreakLabel=70A5FD" alt="GitHub streak" />
 
 <br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohd-anas0693&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&title_color=70A5FD" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd-anas0693&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohd-anas0693&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%" alt="Trophies" />
 
 </div>
 
